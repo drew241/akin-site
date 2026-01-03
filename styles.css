@@ -68,6 +68,12 @@ a:hover{ opacity:.92; }
   font-size: 20px;
 }
 
+.logo{
+  height: 32px;
+  width: auto;
+  display: block;
+}
+
 .nav{
   display:flex;
   align-items:center;
